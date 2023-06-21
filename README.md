@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @partytie5
-- 👀 I’m interested in pretty much anything computer science, except web development.
+- 👀 I’m interested in pretty much anything computer science, except front end web development.
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on nothing specific, just wanna do stuff.
 - 📫 How to reach me idk, discord ig partytie5#0282
